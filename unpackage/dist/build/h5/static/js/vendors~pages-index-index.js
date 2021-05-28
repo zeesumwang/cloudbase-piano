@@ -2313,7 +2313,7 @@ var _e2 = (0, _uniI18n.initVueI18n)({
 var h, l, d;
 
 try {
-  h = __webpack_require__(/*! uni-stat-config */ "5e73").default || __webpack_require__(/*! uni-stat-config */ "5e73");
+  h = __webpack_require__(/*! uni-stat-config */ "c667").default || __webpack_require__(/*! uni-stat-config */ "c667");
 } catch (e) {
   h = {
     appid: ""
@@ -2714,7 +2714,7 @@ var w = {
   }
 },
     S = "undefined" != typeof location && "http:" === location.protocol ? "http:" : "https:",
-    k = "undefined" != typeof process && "e2e" === "production" && "pre" === Object({"NODE_ENV":"production","VUE_APP_NAME":"piano","VUE_APP_PLATFORM":"h5","VUE_APP_INDEX_CSS_HASH":"9ffdaeb8","BASE_URL":"/piano/"}).END_POINT ? "//tcb-pre.tencentcloudapi.com/web" : "//tcb-api.tencentcloudapi.com/web";
+    k = "undefined" != typeof process && "e2e" === "production" && "pre" === Object({"NODE_ENV":"production","VUE_APP_NAME":"piano","VUE_APP_PLATFORM":"h5","VUE_APP_INDEX_CSS_HASH":"3e73f18a","BASE_URL":"/piano/"}).END_POINT ? "//tcb-pre.tencentcloudapi.com/web" : "//tcb-api.tencentcloudapi.com/web";
 var T;
 !function (e) {
   e.local = "local", e.none = "none", e.session = "session";
